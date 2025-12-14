@@ -34,3 +34,10 @@ In 2024, the business demonstrated strong sales performance, driven primarily by
 * **💰 Total Turnover:** $1.36M
 * **📦 Order Volume:** 1,190 orders (1.19k) processed.
 * **⚠️ Opportunity Cost:** Despite the high revenue, the analysis reveals a significant **loss of $111.39k** due to stock unavailability (out-of-stock items).
+
+### 📅 Year 2025 Analysis
+The year 2025 saw a slight decrease in overall activity compared to the previous year.
+
+* **💰 Total Turnover:** $1.31M
+* **📦 Order Volume:** 981 orders processed.
+* **⚠️ Opportunity Cost:** The impact of stock unavailability increased, resulting in a estimated **revenue loss of $126.6k**.
