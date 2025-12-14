@@ -1,7 +1,7 @@
 # Local Market Analysis Project
 
 ## 📊 Project Overview
-This project analyzes store data to optimize sales and inventory management.
+Sales analysis is a mandatory process for modern markets, enabling businesses to make data-driven decisions. This project, developed as part of a university assignment, aims to use store data to analyze product performance and inventory status.
 
 ## Data Stucture
 
