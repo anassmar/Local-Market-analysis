@@ -9,4 +9,4 @@ Insights and recommendations are provided on the following key areas:
 .Availability vs Turnover
 .Total Inventory Value
 .Current Inventory Levels
-# Executive summary :
+## Executive summary :
