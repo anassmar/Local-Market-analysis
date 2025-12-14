@@ -26,3 +26,11 @@ The analysis reveals that **Meats** "Viandes" was the top-selling category for t
   <img src="data structure.png" alt="Dashboard Preview - Product Performance" width="800">
 </div>
 
+## Insights Deep Dive
+
+### 📅 Year 2024 Analysis
+In 2024, the business demonstrated strong sales performance, driven primarily by the **Meats** and **Desserts** categories.
+
+* **💰 Total Turnover:** $1.36M
+* **📦 Order Volume:** 1,190 orders (1.19k) processed.
+* **⚠️ Opportunity Cost:** Despite the high revenue, the analysis reveals a significant **loss of $111.39k** due to stock unavailability (out-of-stock items).
