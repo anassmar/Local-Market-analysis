@@ -6,8 +6,6 @@ Insights and recommendations are provided on the following key areas:
 * **Total Inventory Value:** Financial valuation of the current stock.
 * **Current Inventory Levels:** Status of stock quantities.
 
----
-
 ## Executive Summary
 The analysis for **January 2024** reveals tension within the supply chain. While the overall inventory valuation remains healthy, driven primarily by the **Desserts** category, immediate intervention is required for **8 products identified as critical**. Stockouts are currently visible on key items despite pending orders, highlighting an urgent need to accelerate delivery times.
 
