@@ -10,3 +10,4 @@ Insights and recommendations are provided on the following key areas:
 .Total Inventory Value
 .Current Inventory Levels
 ## Executive summary :
+<img src="product performance.png" alt="Aperçu du Dashboard" width="600">
