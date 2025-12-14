@@ -11,6 +11,6 @@ Insights and recommendations are provided on the following key areas:
 .Current Inventory Levels
 ## Executive summary :
 <div align="center">
-  <img src="Performance produit.png" alt="Aperçu du Dashboard" width="600">
+  <img src="product performance.png" alt="Aperçu du Dashboard" width="600">
 </div>
 
