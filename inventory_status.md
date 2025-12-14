@@ -5,7 +5,7 @@ Insights and recommendations are provided on the following key areas:
 * **Current Inventory Levels:** Status of stock quantities.
 
 ## Executive Summary
-The analysis reveals that **Meats** "Viandes" was the top-selling category for two consecutive years (2024 and 2025). This trend is driven by individual product performance, where **Steak** ranks as the best-selling item.
+The analysis for January 2024 reveals tension within the supply chain. While the overall inventory valuation remains healthy, driven primarily by the Desserts category, immediate intervention is required for 8 products identified as critical. Stockouts are currently visible on key items despite pending orders, highlighting an urgent need to accelerate delivery times.
 
 <div align="center">
   <img src="Analyse du stock.png" alt="Dashboard Preview - Product Performance" width="800">
@@ -13,17 +13,36 @@ The analysis reveals that **Meats** "Viandes" was the top-selling category for t
 
 ## Insights Deep Dive
 
-### 📅 Year 2024 Analysis
-In 2024, the business demonstrated strong sales performance, driven primarily by the **Meats** and **Desserts** categories.
+### 🚨 Critical Alerts & Replenishment
 
-* **💰 Total Turnover:** $1.36M
-* **📦 Order Volume:** 1,190 orders (1.19k) processed.
-* **⚠️ Opportunity Cost:** Despite the high revenue, the analysis reveals a significant **loss of $111.39k** due to stock unavailability (out-of-stock items).
+The dashboard highlights immediate operational risks:
 
-### 📅 Year 2025 Analysis
-The year 2025 saw a slight decrease in overall activity compared to the previous year.
+    * Urgency: 8 products have fallen below the reproduction threshold (safety stock) and require immediate attention.
+Here is the analysis of the "Inventory Analysis" dashboard, translated into professional English.
+Inventory Analysis
+Executive Summary
 
-* **💰 Total Turnover:** $1.31M
-* **📦 Order Volume:** 981 orders processed.
-* **⚠️ Opportunity Cost:** The impact of stock unavailability increased, resulting in a estimated **revenue loss of $126.6k**.
+The analysis for January 2024 reveals tension within the supply chain. While the overall inventory valuation remains healthy, driven primarily by the Desserts category, immediate intervention is required for 8 products identified as critical. Stockouts are currently visible on key items despite pending orders, highlighting an urgent need to accelerate delivery times.
+Insights Deep Dive
+### 🚨 Critical Alerts & Replenishment
+
+The dashboard highlights immediate operational risks:
+
+   * Urgency: 8 products have fallen below the reproduction threshold (safety stock) and require immediate attention.
+
+### 💰 Inventory Valuation
+
+The financial value of the inventory is unevenly distributed across categories:
+
+    * Dominant Category: Desserts represent the largest share of inventory value (approximately $10K), followed by Dairy Products (~$5K).
+
+    * Optimization Opportunity: The "Viandes" (Meats) and "Boissons" (Beverages) categories show significantly lower valuation, which correlates with the observed stockouts (e.g., Roast Chicken).
+
+### 📉 Stock vs. Demand Dynamics
+
+The scatter plot (Quantité commandée vs Niveau du stock) reveals supply-demand imbalances:
+
+    * Risk Zone: Several products (points located below the red dotted line) show high order quantities but stock levels well below the safety threshold.
+
+    * Potential Overstocking: Conversely, certain products (top-right of the chart) appear to have comfortable stock levels relative to their demand
 
