@@ -20,3 +20,8 @@ The analysis reveals that **Meats** "Viandes" was the top-selling category for t
 <div align="center">
   <img src="product performance.png" alt="Dashboard Preview - Product Performance" width="800">
 </div>
+## Data Structure
+<div align="center">
+  <img src="data structure.png" alt="Dashboard Preview - Product Performance" width="800">
+</div>
+
