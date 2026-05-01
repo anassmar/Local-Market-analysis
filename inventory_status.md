@@ -8,9 +8,11 @@ Insights and recommendations are provided on the following key areas:
 
 ## Executive Summary
 The analysis for **January 2024** reveals tension within the supply chain. While the overall inventory valuation remains healthy, driven primarily by the **Desserts** category, immediate intervention is required for **8 products identified as critical**. Stockouts are currently visible on key items despite pending orders, highlighting an urgent need to accelerate delivery times.
-
-[Stock Analysis report Link](https://drive.google.com/file/d/1z2SuSkHVjjWafezsuEZbNOOQ3Tm5YR7J/view?usp=sharing)
-
+<div align="center">
+  <a href="https://drive.google.com/file/d/1z2SuSkHVjjWafezsuEZbNOOQ3Tm5YR7J/view?usp=sharing">
+    <img src="https://drive.google.com/file/d/1z2SuSkHVjjWafezsuEZbNOOQ3Tm5YR7J/view?usp=sharing" alt="Stock Analysis report">
+  </a>
+</div>
 ---
 
 ## Insights Deep Dive
