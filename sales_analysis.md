@@ -9,7 +9,12 @@ Insights and recommendations are provided on the following key areas:
 ## Executive Summary
 The analysis reveals that **Meats** "Viandes" was the top-selling category for two consecutive years (2024 and 2025). This trend is driven by individual product performance, where **Steak** ranks as the best-selling item.
 
-[Product performance Link](https://drive.google.com/file/d/1Mk71LulsKY34Vbx81GQ5sZiHqmr70L0Q/view?usp=sharing)
+<div align="center">
+  <a href="https://drive.google.com/file/d/1Mk71LulsKY34Vbx81GQ5sZiHqmr70L0Q/view?usp=sharing">
+    <img src="https://drive.google.com/file/d/1Mk71LulsKY34Vbx81GQ5sZiHqmr70L0Q/view?usp=sharing" alt="Product Performance report">
+  </a>
+</div>
+
 
 ## Insights Deep Dive
 
