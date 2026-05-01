@@ -24,7 +24,7 @@ Analysis of stock levels, inventory valuation, and impact of unavailability.
 ## Global project Link 📥📥 
 
 <div align="center">
-  <a href="(https://drive.google.com/file/d/1ycMO1PAz6GjcY9kx1elT4mXjcDwNhfH3/view?usp=drive_link">
-    <img src="(https://drive.google.com/file/d/1ycMO1PAz6GjcY9kx1elT4mXjcDwNhfH3/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1ycMO1PAz6GjcY9kx1elT4mXjcDwNhfH3/view?usp=drive_link">
+    <img src="https://drive.google.com/file/d/1ycMO1PAz6GjcY9kx1elT4mXjcDwNhfH3/view?usp=drive_link">
   </a>
 </div>
