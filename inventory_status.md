@@ -13,7 +13,6 @@ The analysis for **January 2024** reveals tension within the supply chain. While
     <img src="https://drive.google.com/file/d/1z2SuSkHVjjWafezsuEZbNOOQ3Tm5YR7J/view?usp=sharing" alt="Stock Analysis report">
   </a>
 </div>
----
 
 ## Insights Deep Dive
 
