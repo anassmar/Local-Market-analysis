@@ -5,9 +5,9 @@ Sales analysis is a mandatory process for modern markets, enabling businesses to
 
 ## Data Stucture
 
-
+<div align="center">
   [Data structure Link](https://drive.google.com/file/d/121F7LopKPIv_kjW7R5LhXxi_BmE4WOzy/view?usp=drive_link)
-
+</div>
 
 ## 🔎 Detailed Reports
 Click on the links below to view the full analysis for each section:
@@ -18,4 +18,6 @@ Deep dive into revenue, top products, and yearly comparisons (2024 vs 2025).
 ### 2. [📦 Inventory Status Report](inventory_status.md)
 Analysis of stock levels, inventory valuation, and impact of unavailability.
 ## Global project Link 📥📥 
+<div align="center">
 [Dowload Link](https://drive.google.com/file/d/1ycMO1PAz6GjcY9kx1elT4mXjcDwNhfH3/view?usp=drive_link)
+</div>
