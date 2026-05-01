@@ -6,7 +6,7 @@ Sales analysis is a mandatory process for modern markets, enabling businesses to
 ## Data Stucture
 
 
-  ([Data structure](https://drive.google.com/file/d/121F7LopKPIv_kjW7R5LhXxi_BmE4WOzy/view?usp=drive_link))
+  [Data structure Link](https://drive.google.com/file/d/121F7LopKPIv_kjW7R5LhXxi_BmE4WOzy/view?usp=drive_link)
 
 
 ## 🔎 Detailed Reports
