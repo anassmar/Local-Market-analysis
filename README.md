@@ -6,8 +6,12 @@ Sales analysis is a mandatory process for modern markets, enabling businesses to
 ## Data Stucture
 
 <div align="center">
-  [Data structure Link](https://drive.google.com/file/d/121F7LopKPIv_kjW7R5LhXxi_BmE4WOzy/view?usp=drive_link)
+  <a href="https://drive.google.com/file/d/121F7LopKPIv_kjW7R5LhXxi_BmE4WOzy/view?usp=drive_link">
+    <img src="https://drive.google.com/file/d/121F7LopKPIv_kjW7R5LhXxi_BmE4WOzy/view?usp=drive_link" alt="Download Link">
+  </a>
 </div>
+  
+
 
 ## 🔎 Detailed Reports
 Click on the links below to view the full analysis for each section:
