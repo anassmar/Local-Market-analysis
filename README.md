@@ -6,7 +6,7 @@ Sales analysis is a mandatory process for modern markets, enabling businesses to
 ## Data Stucture
 
 <div align="center">
-  <img src="/data-structure.png" alt="Dashboard Preview - Product Performance" width="800">
+  <img src="\data-structure.png" alt="Dashboard Preview - Product Performance" width="800">
 </div>
 
 ## 🔎 Detailed Reports
